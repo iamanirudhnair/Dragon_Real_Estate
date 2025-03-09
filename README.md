@@ -10,25 +10,7 @@ The platform includes features such as:
 - **Contact Forms**: Get in touch with property owners directly through the platform.
 - **Real-Time Data**: Seamless experience with dynamic property data updates.
 
-**Model Outputs**
-
-1. Decision Tree:
-   
-    Mean:  4.189504502474483
-   
-    Standard deviation:  0.848096620323756
-
-2. Linear Regression:
-   
-    Mean:  4.221894675406022
-   
-    Standard deviation:  0.7520304927151625
-
-3. Random Forest Regression
-   
-    Mean:  3.494650261111624
-   
-    Standard deviation:  0.762041223886678
+![image_alt](https://github.com/iamanirudhnair/Real_Estate-Price_Predictor/blob/main/Output%20scores.png?raw=true)
 
 ## Features
 
